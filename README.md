@@ -8,3 +8,5 @@ These projects come from:
 </list>
 Shapes will look like:
 <img src="shapespic.jpg" alt="A picture of how the Shapes program should work">
+WordleClone will look like:
+<img src="wordlepic.jpg" alt ="A picture of how the WordleClone program should work">

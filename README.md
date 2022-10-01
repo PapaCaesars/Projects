@@ -6,7 +6,11 @@ These projects come from:
   <li>CS 1400 (SLCC Concurrent Enrollement)</li>
   <li>CS 1410 (SLCC Concurrent Enrollement)</li>
 </list>
-Shapes will look like:
-<img src="shapespic.jpg" alt="A picture of how the Shapes program should work">
-WordleClone will look like:
-<img src="wordlepic.jpg" alt ="A picture of how the WordleClone program should work">
+<h2> Shapes </h2>
+  Important ideas: Inheritance, Polymorphism, OOP, and Interfaces. 
+  </br> Will look like:
+  <img src="shapespic.jpg" alt="A picture of how the Shapes program should work">
+<h2> WordleClone </h2>
+  Important Ideas: Methods, Comments
+  </br> Will look like:
+  <img src="wordlepic.jpg" alt ="A picture of how the WordleClone program should work">

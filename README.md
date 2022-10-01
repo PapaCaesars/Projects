@@ -7,10 +7,19 @@ These projects come from:
   <li>CS 1410 (SLCC Concurrent Enrollement)</li>
 </list>
 <h2> Shapes </h2>
-  Important ideas: Inheritance, Polymorphism, OOP, and Interfaces. 
-  </br> Will look like:
+  <b>Important ideas:</b> Inheritance, Polymorphism, OOP, and Interfaces. 
+  </br>
+  <b>Demonstration</b>
   <img src="shapespic.jpg" alt="A picture of how the Shapes program should work">
 <h2> WordleClone </h2>
-  Important Ideas: Methods, Comments
-  </br> Will look like:
+  <b>Important Ideas:</b> Methods, Comments
+  </br>
+  <b> Demonstration </b>
   <img src="wordlepic.jpg" alt ="A picture of how the WordleClone program should work">
+ <h2> Upcoming Games Website </h2>
+  <b>Important Ideas:</b> HTML/CSS, Links, Tables, Divs, Positioning, etc.
+  </br>
+  <b>Note:</b> Images have been removed for copyright reasons
+  </br> 
+  <b>Demonstration</b>
+  <img src="UpcomingGamesPic.jpg" alt="A picture of my Upcoming Games Website">

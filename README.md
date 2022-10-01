@@ -1,4 +1,4 @@
-# SimpleWordlev2
+# Projects
 Contains a few of the programming projects I've done 
 These projects come from:
 CS 1420 (U of U)

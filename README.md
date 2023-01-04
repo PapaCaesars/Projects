@@ -6,11 +6,6 @@ These projects come from:
   <li>CS 1400 (SLCC Concurrent Enrollement)</li>
   <li>CS 1410 (SLCC Concurrent Enrollement)</li>
 </list>
-<h2> Shapes </h2>
-  <b>Important ideas:</b> Inheritance, Polymorphism, OOP, and Interfaces. 
-  </br>
-  <b>Demonstration</b>
-  <img src="shapespic.jpg" alt="A picture of how the Shapes program should work">
 <h2> WordleClone </h2>
   <b>Important Ideas:</b> Methods, Comments
   </br>
